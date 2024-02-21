@@ -1,6 +1,10 @@
 # CSE-250
 Find the CSE250 course materials here.. 
 
+🔸Labsheets:
+[https://drive.google.com/file/d/18JpfsDz_pwh0qLjpmrMttwcNBkcfjTE0/view?usp=sharing
+](https://drive.google.com/drive/folders/1vS5r47VJLmh8RJNey37f2RXB6fUrHkm9?fbclid=IwAR2_gAY8rjkKvzHvGVyMto08vTflgbd7W3DUGtr3kB0ijhY9qSQYYoQM7I4)
+
 🔸Course Policies and Important Materials [SBS]:
 https://drive.google.com/file/d/18JpfsDz_pwh0qLjpmrMttwcNBkcfjTE0/view?usp=sharing
 
